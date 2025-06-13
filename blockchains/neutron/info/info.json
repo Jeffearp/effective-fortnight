@@ -13,8 +13,8 @@
     "hrp": "neutron",
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/Neutron_org"
+            "name": "twitter",
+            "url": "https://twitter.com/Neutron_org"
         },
         {
             "name": "github",

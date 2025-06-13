@@ -1,5 +1,5 @@
 {
-    "name": "CoW Protocol Token",
+    "name": "COW",
     "type": "ERC20",
     "symbol": "COW",
     "decimals": 18,
@@ -10,24 +10,16 @@
     "id": "0xDEf1CA1fb7FBcDC777520aa7f396b4E015F497aB",
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/CoWSwap"
+            "name": "twitter",
+            "url": "https://twitter.com/MEVprotection"
         },
         {
             "name": "github",
-            "url": "https://github.com/cowprotocol"
-        },
-        {
-            "name": "source_code",
-            "url": "https://github.com/cowprotocol/token"
+            "url": "https://github.com/gnosis/cow-token/"
         },
         {
             "name": "blog",
-            "url": "https://blog.cow.fi"
-        },
-        {
-            "name": "docs",
-            "url": "https://docs.cow.fi"
+            "url": "https://medium.com/@cow-protocol"
         },
         {
             "name": "discord",
@@ -36,18 +28,6 @@
         {
             "name": "forum",
             "url": "https://forum.cow.fi"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/cow-protocol"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/cow-protocol"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/@CoWSwap"
         }
     ],
     "tags": [

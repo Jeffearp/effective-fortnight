@@ -5,11 +5,6 @@ on:
       - master
 
   workflow_dispatch:
-    inputs:
-      use-size-only:
-        description: 'Include --size-only flag in aws s3 sync command'
-        required: false
-        default: 'true'
 
 permissions:
   id-token: write
@@ -33,12 +28,7 @@ jobs:
       - name: Sync to S3
         if: github.repository_owner == 'trustwallet'
         shell: bash
-        run: |
-          SYNC_OPTIONS="--follow-symlinks --delete --exclude '*' --include 'dapps/*' --include 'blockchains/*'"
-          if [ "${{ github.event.inputs.use-size-only }}" == "true" ]; then
-            SYNC_OPTIONS="$SYNC_OPTIONS --size-only"
-          fi
-          eval "aws s3 sync . s3://$AWS_S3_BUCKET $SYNC_OPTIONS"
+        run: aws s3 sync . s3://$AWS_S3_BUCKET  --follow-symlinks --delete --exclude '*' --include 'dapps/*' --include 'blockchains/*' --size-only
         env:
           AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
 
@@ -59,3 +49,4 @@ jobs:
         env:
           PATHS: ${{ steps.filter.outputs.paths }}
           DISTRIBUTION: ${{ secrets.AWS_DISTRIBUTION }}
+

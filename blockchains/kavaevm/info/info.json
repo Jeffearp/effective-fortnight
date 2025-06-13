@@ -15,8 +15,8 @@
             "url": "https://github.com/kava-labs"
         },
         {
-            "name": "x",
-            "url": "https://x.com/kava_labs"
+            "name": "twitter",
+            "url": "https://twitter.com/kava_labs"
         },
         {
             "name": "whitepaper",
@@ -40,7 +40,6 @@
         }
     ],
     "tags": [
-        "defi",
-        "dapp"
+        "defi"
     ]
-}
+} 

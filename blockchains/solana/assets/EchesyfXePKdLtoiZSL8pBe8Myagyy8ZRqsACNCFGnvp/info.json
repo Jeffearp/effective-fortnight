@@ -1,5 +1,5 @@
 {
-    "name": "Solana Name Service",
+    "name": "Bonfida",
     "symbol": "FIDA",
     "type": "SPL",
     "decimals": 6,
@@ -10,8 +10,8 @@
     "id": "EchesyfXePKdLtoiZSL8pBe8Myagyy8ZRqsACNCFGnvp",
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/bonfida"
+            "name": "twitter",
+            "url": "https://twitter.com/bonfida"
         },
         {
             "name": "coinmarketcap",
