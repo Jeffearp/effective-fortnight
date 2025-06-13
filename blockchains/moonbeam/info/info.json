@@ -7,16 +7,13 @@
     "symbol": "GLMR",
     "type": "coin",
     "coin_type": 1284,
-    "rpc_url": "https://rpc.api.moonbeam.network",
+    "rpc_url": "https://moonbeam.public.blastapi.io",
     "decimals": 18,
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/moonbeamnetwork"
+            "name": "twitter",
+            "url": "https://twitter.com/moonbeamnetwork"
         }
     ]
 }

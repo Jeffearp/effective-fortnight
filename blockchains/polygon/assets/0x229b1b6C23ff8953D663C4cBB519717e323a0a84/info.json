@@ -14,12 +14,12 @@
             "url": "https://t.me/BloktopiaChat"
         },
         {
-            "name": "x",
-            "url": "https://x.com/bloktopia"
+            "name": "twitter",
+            "url": "https://twitter.com/bloktopia"
         },
         {
             "name": "coinmarketcap",
             "url": "https://coinmarketcap.com/currencies/bloktopia/"
         }
     ]
-}
+}  

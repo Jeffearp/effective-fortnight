@@ -13,44 +13,16 @@
     ],
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/CoWSwap"
+            "name": "github",
+            "url": "https://github.com/gnosis/cowswap"
         },
         {
-            "name": "github",
-            "url": "https://github.com/cowprotocol"
-        },
-        {
-            "name": "github",
-            "url": "https://github.com/cowprotocol/token"
+            "name": "twitter",
+            "url": "https://twitter.com/MEVprotection"
         },
         {
             "name": "blog",
-            "url": "https://blog.cow.fi"
-        },
-        {
-            "name": "docs",
-            "url": "https://docs.cow.fi"
-        },
-        {
-            "name": "discord",
-            "url": "https://discord.com/invite/cowprotocol"
-        },
-        {
-            "name": "forum",
-            "url": "https://forum.cow.fi"
-        },
-        {
-            "name": "coingecko",
-            "url": "https://coingecko.com/en/coins/cow-protocol"
-        },
-        {
-            "name": "coinmarketcap",
-            "url": "https://coinmarketcap.com/currencies/cow-protocol"
-        },
-        {
-            "name": "youtube",
-            "url": "https://youtube.com/@CoWSwap"
+            "url": "https://cow.fi"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
-    "name": "Open Custody Protocol",
+    "name": "Qredo",
     "type": "ERC20",
-    "symbol": "OPEN",
+    "symbol": "QRDO",
     "decimals": 8,
-    "website": "https://opencustody.org/",
-    "description": "Open Custody Protocol brings an omnichain primitive for modular custody.",
+    "website": "https://qredo.com/",
+    "description": "Qredo is a blockchain infrastructure that delivers interoperability, fast settlement, and decentralized custody.",
     "explorer": "https://etherscan.io/token/0x4123a133ae3c521fd134d7b13a2dec35b56c2463",
     "status": "active",
     "id": "0x4123a133ae3c521FD134D7b13A2dEC35b56c2463",
     "links": [
         {
-            "name": "x",
-            "url": "https://x.com/opencustody"
+            "name": "twitter",
+            "url": "https://twitter.com/QredoNetwork"
         },
         {
             "name": "telegram",
-            "url": "https://t.me/OpenCustody"
+            "url": "https://t.me/QredoNetwork"
         },
         {
             "name": "telegram_news",
-            "url": "https://t.me/OpenCustody_News"
+            "url": "https://t.me/qredoannouncements"
         },
         {
             "name": "whitepaper",
-            "url": "https://docs.opencustody.org/"
+            "url": "https://qredo.com/qredo-white-paper"
         },
         {
             "name": "youtube",
-            "url": "https://youtube.com/channel/UCyMjpYXfzkam99yuPDiaqmQ"
+            "url": "https://youtube.com/c/qredonetwork"
         },
         {
             "name": "coingecko",
@@ -39,7 +39,7 @@
         },
         {
             "name": "blog",
-            "url": "https://opencustody.org/blog"
+            "url": "https://qredo.com/media-center"
         },
         {
             "name": "discord",
@@ -47,10 +47,7 @@
         },
         {
             "name": "docs",
-            "url": "https://docs.opencustody.org/"
+            "url": "https://support.qredo.com/"
         }
-    ],
-    "tags": [
-        "defi"
     ]
 }

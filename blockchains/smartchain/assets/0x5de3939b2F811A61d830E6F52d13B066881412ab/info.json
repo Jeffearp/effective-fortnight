@@ -1,5 +1,5 @@
 {
-    "name": "XPR Network",
+    "name": "Proton",
     "type": "BEP20",
     "symbol": "XPR",
     "decimals": 4,
@@ -14,8 +14,8 @@
             "url": "https://github.com/ProtonProtocol"
         },
         {
-            "name": "x",
-            "url": "https://x.com/protonxpr"
+            "name": "twitter",
+            "url": "https://twitter.com/protonxpr"
         },
         {
             "name": "reddit",

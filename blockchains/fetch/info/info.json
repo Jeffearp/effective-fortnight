@@ -22,8 +22,8 @@
             "url": "https://coinmarketcap.com/currencies/fetch/"
         },
         {
-            "name": "x",
-            "url": "https://x.com/fetch_ai"
+            "name": "twitter",
+            "url": "https://twitter.com/fetch_ai"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "address": "EQCmzlSgRI8GFVJrGRqaxo-jvTo7211twIb0BP4m4iKZ2hmR",
     "name": "Orbit Bridge Ton Azit",
-    "type": "JETTON",
+    "type": "TON",
     "symbol": "oAZIT",
     "decimals": 18,
     "description": "Orbit Bridge Token on TON blockchain!",

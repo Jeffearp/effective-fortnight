@@ -9,17 +9,14 @@
     "decimals": 18,
     "rpc_url": "https://rpc.ftm.tools",
     "status": "active",
-    "tags": [
-        "dapp"
-    ],
     "links": [
         {
             "name": "discord",
             "url": "https://discord.com/invite/zS4Ek4WByA/"
         },
         {
-            "name": "x",
-            "url": "https://x.com/FantomFDN"
+            "name": "twitter",
+            "url": "https://twitter.com/FantomFDN"
         },
         {
             "name": "telegram",

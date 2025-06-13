@@ -9,8 +9,7 @@
     "decimals": 18,
     "status": "active",
     "tags": [
-        "staking-native",
-        "dapp"
+        "staking-native"
     ],
     "links": [
         {
@@ -18,8 +17,8 @@
             "url": "https://github.com/binance-chain/"
         },
         {
-            "name": "x",
-            "url": "https://x.com/BNBCHAIN"
+            "name": "twitter",
+            "url": "https://twitter.com/BNBCHAIN"
         },
         {
             "name": "reddit",
